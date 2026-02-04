@@ -1,15 +1,6 @@
 
 # Excel MCP Server - Model Context Protocol for Excel without Microsoft Excel
 
-[![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-brightgreen.svg)](https://modelcontextprotocol.io/)
-[![npm version](https://img.shields.io/npm/v/@guillehr2/excel-mcp-server.svg)](https://www.npmjs.com/package/@guillehr2/excel-mcp-server)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-purple.svg)](https://claude.ai)
-[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/d608b999-01ad-40b1-aea1-3c6c6e7bb4f1)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Downloads](https://img.shields.io/npm/dm/@guillehr2/excel-mcp-server.svg)](https://www.npmjs.com/package/@guillehr2/excel-mcp-server)
-[![GitHub Stars](https://img.shields.io/github/stars/guillehr2/Excel-MCP-Server-Master.svg)](https://github.com/guillehr2/Excel-MCP-Server-Master/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A Model Context Protocol (MCP) server that lets you manipulate Excel files without needing Microsoft Excel installed. Create, read, write, and analyze Excel workbooks (.xlsx, .xlsm) with AI assistants like Claude. Complete Excel automation through LLM integration.
 
 **Key Features:**
