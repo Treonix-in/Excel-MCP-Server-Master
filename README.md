@@ -358,9 +358,6 @@ node index.js
 
 For more help, see our [troubleshooting guide](docs/troubleshooting.md) or open an issue.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -370,21 +367,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Published on [npm](https://www.npmjs.com/) for easy distribution
 - **Special thanks to [lwsinclair](https://github.com/lwsinclair)** for the independent security audit and MseeP.ai integration
 
-## 📊 Stats
-
-![GitHub last commit](https://img.shields.io/github/last-commit/guillehr2/Excel-MCP-Server-Master)
-![GitHub issues](https://img.shields.io/github/issues/guillehr2/Excel-MCP-Server-Master)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/guillehr2/Excel-MCP-Server-Master)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@guillehr2/excel-mcp-server)
-
----
-
-**Made with ❤️ for the MCP ecosystem**
-
-*If you find this Excel MCP Server useful, please consider giving it a ⭐ on GitHub!*
-
----
-
-**Excel MCP Server** by Guillem Hermida | [GitHub](https://github.com/guillehr2) | [NPM](https://www.npmjs.com/package/@guillehr2/excel-mcp-server) | Contact: qtmsuite@gmail.com
 
 *Excel manipulation without Microsoft Excel - Model Context Protocol server for Claude AI and LLM integration*
