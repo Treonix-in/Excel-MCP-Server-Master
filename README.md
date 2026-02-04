@@ -329,9 +329,6 @@ For detailed documentation, see:
 - [💡 Examples](docs/examples.md)
 - [📝 Changelog](CHANGELOG.md)
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Development Setup
 
